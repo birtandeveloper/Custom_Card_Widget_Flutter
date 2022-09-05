@@ -1,16 +1,7 @@
 # custom_card_widget
 
-A new Flutter project.
+Custom Card Widget Creation with Flutter
 
-## Getting Started
+Creation of Custom Card Widget to easily use your widget where you need in your project. With this sample code you could understand the Component Based Atomic Widget concept
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![SCR-20220904-suw](https://user-images.githubusercontent.com/112268714/188326697-8776c1e9-4d7b-4e99-aa89-b6dfeaaf768f.png)
